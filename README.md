@@ -1,2 +1,7 @@
-# ml-tenweeks
-暑假用来十个星期学习 ml 的gitee远程仓库
+# README
+
+## Brief
+
+Served as a Learning Track for ten weeks machine learning in summer
+
+This is very useful to bring theory knowledge from d2l into implement
