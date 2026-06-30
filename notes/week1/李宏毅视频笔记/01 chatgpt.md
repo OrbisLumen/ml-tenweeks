@@ -1,5 +1,7 @@
 # Chat-GPT
 
+> 初步了解 Chat-GPT
+
 ## Chat-GPT学习原理
 - GPT 
   - G -> Generative
