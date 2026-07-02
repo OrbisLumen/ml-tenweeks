@@ -3,3 +3,6 @@ request/
 
 # big reference book files
 reference/
+
+# local agent request
+AGENTS.md
