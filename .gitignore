@@ -6,3 +6,6 @@ reference/
 
 # local agent request
 AGENTS.md
+
+# homework datasets downloaded locally from Jupyter
+notes/week*/课程作业/HW*/data/
